@@ -1,6 +1,6 @@
 /P:VisualStudioVersion=15.0
 /P:AllowUntrustedCertificate=true
 /P:DeployOnBuild=True
-/P:PublishProfile="C:\FSD\Code\ProjectManagerAPI\ProjectManagerApi\Properties\PublishProfiles\CustomProfile"
+/P:PublishProfile="C:\FSD\Code\ProjectManagerAPI\ProjectManagerApi\Properties\PublishProfiles\CustomProfile.pubxml"
 /P:DeployIISAppPath="ProjectManagerAPI"
 /P:Configuration=Release
